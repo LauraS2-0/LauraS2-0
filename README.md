@@ -38,7 +38,6 @@ I am particularly interested in backend-oriented development, data processing, a
 - Git / GitHub
 - Linux Command Line
 - Digital Logic Design
-- Protoboard Circuit Implementation
 
 ---
 
